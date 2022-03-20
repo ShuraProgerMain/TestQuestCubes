@@ -3,9 +3,10 @@
 
 #
 Пример с обычным перемещением "По дуге" до выбранного объекта.
-/withoutNearest.gif
+
+![withoutNearest](https://user-images.githubusercontent.com/67688368/159186731-e2e1ed16-c09f-4104-ac3c-c788b5dc2be8.gif)
 
 #
 
 Пример перемещения "По дуге" через ближайшего соседа.
-/withNearest.gif
+![withNearest](https://user-images.githubusercontent.com/67688368/159186737-e6e808c2-708c-4472-aea4-8c78276adc58.gif)
